@@ -5,7 +5,7 @@
     "summary": "A snippet to add custom html/QWEB code on a web page",
     'images':['static/description/icon.png'],
     "category": "Website",
-    "version": "13.0.1.1.0",
+    "version": "14.0.0.0.1",
 
     "website": "https://www.adgensee.com",
     "author": "Adgensee, Oondeo",
